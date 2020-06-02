@@ -1,0 +1,3 @@
+comando utilizao para o curso de bootstrap e utilizando o sass, node, ruby
+
+sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler
